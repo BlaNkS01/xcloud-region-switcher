@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "xCloud Region Switcher",
+  "version": "1.5.1",
+  "description": "Choose an xCloud region with optional HTTP latency checks, geographic fallback, and experimental region bypass.",
+  "permissions": ["storage"],
+  "host_permissions": ["https://www.xbox.com/*","https://xbox.com/*","https://play.xbox.com/*"],
+  "action": {"default_popup":"popup.html","default_title":"xCloud Region Switcher"},
+  "content_scripts": [
+    {"matches":["https://www.xbox.com/*","https://xbox.com/*","https://play.xbox.com/*"],"js":["main.js"],"run_at":"document_start","world":"MAIN"},
+    {"matches":["https://www.xbox.com/*","https://xbox.com/*","https://play.xbox.com/*"],"js":["bridge.js"],"run_at":"document_start"}
+  ]
+}
