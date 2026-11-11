@@ -11,6 +11,14 @@ A lightweight, unofficial extension for Microsoft Edge and Google Chrome that le
 - Shows the requested region and, when explicitly reported by Xbox, the actual region
 - Saves settings locally using browser extension storage
 
+## Screenshots
+
+### Extension Interface
+
+![xCloud Region Switcher extension interface](screenshot-optimized.png)
+
+The extension popup showing regional access bypass, automatic region selection, the last requested region, and the actual region status when available.
+
 ## Installation (unpacked extension)
 
 1. Download and extract the ZIP archive.
