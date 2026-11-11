@@ -19,6 +19,12 @@ A lightweight, unofficial extension for Microsoft Edge and Google Chrome that le
 
 The extension popup showing regional access bypass, automatic region selection, the last requested region, and the actual region status when available.
 
+### Available Server Regions
+
+![xCloud Region Switcher available server regions](screenshot-optimized2.png)
+
+The region selector lists the regions detected from Xbox Cloud Gaming, including automatic selection modes and the Xbox default region.
+
 ## Installation (unpacked extension)
 
 1. Download and extract the ZIP archive.
