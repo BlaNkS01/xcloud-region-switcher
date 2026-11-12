@@ -2,6 +2,8 @@
 
 A lightweight, unofficial extension for Microsoft Edge and Google Chrome that lets you choose a preferred Xbox Cloud Gaming (xCloud) region without a built-in VPN or proxy.
 
+**Explore our other projects:** [ToolNovaHub — 30 free online tools](https://toolnovahub.github.io/) · [Our Projects](https://toolnovahub.github.io/projects/)
+
 ## Features
 
 - Experimental region bypass (does **not** change your public IP)
