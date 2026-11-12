@@ -28,6 +28,9 @@ Manual region selection · Automatic selection modes · Local settings · No bui
 > [!IMPORTANT]
 > This is an **unofficial, experimental** project. Selecting a region does **not** guarantee which streaming server Xbox will actually use. The extension does **not** change your public IP address or provide a VPN.
 
+> [!WARNING]
+> **Current compatibility (v1.5.1):** Confirmed working on the **classic Xbox Cloud Gaming site** at **https://www.xbox.com/play**, including launching and playing games in the project owner's test. **The new experience at https://play.xbox.com is not currently supported:** the game catalog may remain empty even when this extension is enabled. Use the classic site for now. This is a compatibility notice, not a guarantee of regional access for every user.
+
 ## 🚀 Features
 
 | Feature | What it does |
@@ -65,7 +68,7 @@ This project is installed as an **unpacked browser extension**.
 2. Open **`edge://extensions`** or **`chrome://extensions`**.
 3. Turn on **Developer mode**.
 4. Select **Load unpacked** and choose the extracted extension folder containing the extension's `manifest.json`.
-5. Open [Xbox Cloud Gaming](https://www.xbox.com/play) or [play.xbox.com](https://play.xbox.com).
+5. Open the **classic Xbox Cloud Gaming site**: [www.xbox.com/play](https://www.xbox.com/play). The new [play.xbox.com](https://play.xbox.com) experience is **not currently supported**.
 6. Open the extension popup, choose your preferences, then select **Save settings and reload xCloud**.
 
 > [!TIP]
@@ -77,6 +80,7 @@ This project is installed as an **unpacked browser extension**.
 - **Requested ≠ actual region.** Xbox may assign a different streaming server.
 - **Not a streaming ping test.** The experimental latency comparison measures HTTP response time to eligible Xbox-provided endpoints, not streaming-server latency.
 - **Approximate automatic selection.** The geographic mode uses a fixed Central European reference point, not your precise location.
+- **Classic site only (currently tested).** v1.5.1 works on `www.xbox.com/play` in our tests. `play.xbox.com` is not currently supported, even if the extension loads there.
 - **Compatibility can change.** Browser behavior, account access, Xbox endpoints, and regional restrictions may affect results.
 - **No performance guarantees.** Lower latency, better streaming quality, and future compatibility are not guaranteed.
 - Use may be subject to Xbox terms and regional restrictions.
@@ -105,7 +109,7 @@ Distributed under the **MIT License**. See [LICENSE](LICENSE).
 
 ## 🏷️ Release
 
-**v1.5.1** — English UI. Tested by the project owner; behavior may vary by account, browser, and region.
+**v1.5.1** — English UI. **Confirmed on `www.xbox.com/play` only; `play.xbox.com` is not currently supported.** Tested by the project owner; behavior may vary by account, browser, and region.
 
 ---
 
