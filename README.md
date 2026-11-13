@@ -13,7 +13,7 @@ Manual region selection · Automatic selection modes · Local settings · No bui
 ![Status](https://img.shields.io/badge/status-experimental-f59e0b?style=flat-square)
 
 [![View Installation Guide](https://img.shields.io/badge/Installation-Get%20Started-7c3aed?style=for-the-badge)](#-installation)
-[![Explore ToolNovaHub](https://img.shields.io/badge/ToolNovaHub-Explore%20Our%20Tools-2563eb?style=for-the-badge)](https://toolnovahub.github.io/)
+[![Explore ToolsNova](https://img.shields.io/badge/ToolsNova-Explore%20Our%20Tools-2563eb?style=for-the-badge)](https://toolsnova.online/)
 
 [Features](#-features) · [Screenshots](#-screenshots) · [Installation](#-installation) · [Limitations](#-important-limitations) · [Privacy](#-privacy--permissions) · [Other Projects](#-our-other-projects)
 
@@ -95,9 +95,9 @@ The experimental bypass attempts to add an `X-Forwarded-For` header to a login r
 
 | Project | Description |
 | --- | --- |
-| [**ToolNovaHub**](https://toolnovahub.github.io/) | 30 free browser-based tools for images, PDFs, text, and developers |
+| [**ToolsNova**](https://toolsnova.online/) | 30 free browser-based tools for images, PDFs, text, and developers |
 | [**xCloud Toolkit**](https://github.com/BlaNkS01/xcloud-toolkit) | Customization and controls for Xbox Cloud Gaming |
-| [**All our projects**](https://toolnovahub.github.io/projects/) | Explore the full project collection |
+| [**All our projects**](https://toolsnova.online/projects/) | Explore the full project collection |
 
 ## 🤝 Feedback & contributing
 
@@ -117,7 +117,7 @@ Distributed under the **MIT License**. See [LICENSE](LICENSE).
 
 **Made for the Xbox Cloud Gaming community 🎮**
 
-[⬆ Back to top](#-xcloud-region-switcher) · [🌐 ToolNovaHub](https://toolnovahub.github.io/) · [🧩 Our Projects](https://toolnovahub.github.io/projects/)
+[⬆ Back to top](#-xcloud-region-switcher) · [🌐 ToolsNova](https://toolsnova.online/) · [🧩 Our Projects](https://toolsnova.online/projects/)
 
 *Independent community project. Not affiliated with, endorsed by, or supported by Microsoft or Xbox.*
 
